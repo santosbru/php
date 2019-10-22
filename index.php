@@ -1,4 +1,4 @@
 <?php
-	echo "Hello World Meu 'primeiro' programa";
+	echo " Meu 'primeiro' programa";
 
 ?>
